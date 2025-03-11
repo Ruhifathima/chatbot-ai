@@ -1,8 +1,13 @@
 *TO CLONE THE REPOSITORY:*
+
 git clone https://github.com/Ruhifathima/chatbot-ai.git
+
 cd chatbot-ai
 
+
+
 *TO SET UP BACKEND:*
+
 cd backend
 
 python -m venv venv
@@ -17,6 +22,7 @@ uvicorn main:app --reload
 
 
 *TO SET UP FRONTEND:*
+
 cd ../frontend
 
 npm install
